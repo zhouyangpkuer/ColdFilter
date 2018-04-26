@@ -1,5 +1,8 @@
 ## Cold Filter
 
+### Note
+[Code for Journal version](https://github.com/cortalo/PersistentItem) 
+
 ### Introduction
 
 Approximate stream processing algorithms, such as Count-Min sketch, Space-Saving, etc., support numerous applications in databases, storage systems, networking, and other domains. Unfortunately, because of the unbalanced distribution in real data streams, existing algorithms can hardly achieve small memory usage, fast processing speed, and high accuracy at the same time. To address this gap, we propose a meta-framework, called Cold Filter (CF), that enables faster and more accurate stream processing. 
