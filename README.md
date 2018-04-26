@@ -1,7 +1,7 @@
 ## Cold Filter
 
 ### Note
-[Code for Journal version](https://github.com/cortalo/PersistentItem) 
+[Additional code for Journal version](https://github.com/cortalo/PersistentItem) 
 
 ### Introduction
 
